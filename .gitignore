@@ -1,3 +1,11 @@
+# Project specific
+src/broken_inner_track_main.py
+output*.*
+data.*
+draft-videos/
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -23,6 +31,8 @@ wheels/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
+.idea/
+vim.session
 .installed.cfg
 *.egg
 MANIFEST

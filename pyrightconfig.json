@@ -1,0 +1,13 @@
+{
+  "venvPath": "/home/victor/Projects/ypt-opencv",
+  "venv": "env",
+
+  "pythonVersion": "3.10",
+  "pythonPlatform": "Linux",
+
+  "executionEnvironments": [{
+      "root": "."
+    }],
+
+  "reportOptionalMemberAccess": false
+}
